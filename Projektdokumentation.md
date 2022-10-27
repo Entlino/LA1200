@@ -58,10 +58,37 @@ Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  |       |           |              | 45min         |
+| 2.A  |       |           |              | 45min         |
+| 3.A  |       |           |              | 45min         |
+| 4.A  |       |           |              | 45min         |
+| 5.A  |       |           |              | 45min         |
+| 6.A  |       |           |              | 45min              |
+| 7.A  |       |           |              | 45min              |
+| 8.A  |       |           |              | 45min              |
+| 9.A  |       |           |              | 45min              |
+| 10.A  |       |           |              | 45min              |
+| 11.A  |       |           |              | 45min              |
+| 12.A  |       |           |              | 45min              |
+| 13.A  |       |           |              | 45min              |
+| 14.A  |       |           |              | 45min             |
+| 15.A  |       |           |              | 45min              |
+| 16.A  |       |           |              | 45min              |
+| 17.A  |       |           |              | 45min              |
+| 18.A  |       |           |              | 45min             |
+| 19.A  |       |           |              | 45min              |
+| 20.A  |       |           |              | 45min              |
+| 21.A  |       |           |              | 45min              |
+| 22.A  |       |           |              | 45min             |
+| 23.A  |       |           |              | 45min              |
+| 24.A  |       |           |              | 45min              |
+| 25.A  |       |           |              | 45min              |
+| 26.A  |       |           |              | 45min              |
+| 27.A  |       |           |              | 45min              |
+| 28.A  |       |           |              | 45min              |
+| 29.A  |       |           |              | 45min              |
 Total: 
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
