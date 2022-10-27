@@ -3,7 +3,7 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍Blobfisch, Aeschlimann, Spaqi, Heiniger, Özden
+✍️ Ihr Gruppenname und Ihre Nachnamen
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -21,9 +21,15 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| 1    |                 |      | Als ein Benutzer, möchte ich dass das Program ein Login hat um meinen Stand zu speichern |
+| 2    |                 |      | Als ein Benutzer, möchte ich dass das Program die verschienden Workshops anzeigt|
+| 3    |                 |      | Als ein Benutzer, möchte ich dass das Program verschiende Prioritäten erkennt|
+| 4    |                 |      | Als ein Benutzer, möchte ich dass das Program anzeigt welcher Workshop am beliebtesten ist|
+| 6    |                 |      | Als ein Benutzer, möchte ich dass das Program ein Feedbackfeld hat um anregungen zu hinterlassen |
+| 7    |                 |      | Als ein Benutzer, möchte ich dass das Program mir sagt wo ich zugeteilt wurde|
+| 8    |                 |      | Als ein Benutzer, möchte ich dass das Program mir zusatzinformationen zu den Workshops gibt|
+| 9    |                 |      | Als ein Benutzer, möchte ich dass das Program mir temporäre Workshops zuordnet|
+  
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
