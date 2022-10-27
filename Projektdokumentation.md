@@ -58,12 +58,12 @@ Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              | 45min         |
-| 2.A  |       |           |              | 45min         |
-| 3.A  |       |           |              | 45min         |
-| 4.A  |       |           |              | 45min         |
-| 5.A  |       |           |              | 45min         |
-| 6.A  |       |           |              | 45min              |
+| 1.A  |       | Lukas     | Der Benutzer kann sich einen Account erstellen (Passwort, Benutzername etc.) | 45min         |
+| 2.A  |       | Lukas     | Der Benutzer kann sich einlogen mit seinem Account und sein Passwort zurücksetzen falls es falsch wäre.| 45min         |
+| 3.A  |       | Brandon   | Der Benutzer kann die verschieden Workshop ansehen und kann Informationen anzeigen lassen| 45min         |
+| 4.A  |       | Mirhan          | Der Benutzer kann seine Prioritäteten eintrag| 45min         |
+| 5.A  |       | Mirhan          | Die Einträge werden gespeichert             | 45min         |
+| 6.A  |       | Christian/Mirhan | Herausfinden wie man die Prioritäten vergleichen kann mit Mirhan besprechen und im erklären| 45min/ 10min|
 | 7.A  |       |           |              | 45min              |
 | 8.A  |       |           |              | 45min              |
 | 9.A  |       |           |              | 45min              |
