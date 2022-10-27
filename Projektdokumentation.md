@@ -40,12 +40,12 @@ Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 | 1.2  | Computer fragt nach Login-Daten             | Passwort        |                   |
 | 2.1  | Computer zeigt Workshops an             | -        |                   |
 | 2.2  | Computer zeigt Workshops an             | Tech-Workshop        | Sie haben "Tech-Workshop" ausgewählt.                  |
-| 3.1  |              | 0 / 1 / 2        |                   |
+| 3.1  | Computer erkennt Prioritäten             | 0 / 1 / 2        |                   |
 | 4.1  | Computer zeigt top 5 beliebte Workshops an             | -        |                   |
 | 5.1  | Computer fragt nach Feedback nach             | freiwillig        | Danke, für ihr Feedback                  |
 | 6.1  | Computer zeigt mir meine Zuteilung an             | -        |                   |
 | 7.1  | Computer zeigt Zusatzdetails zu den Workshops an             | -        |                   |
-| 8.1  |              |         |                   |
+| 8.1  | Computer ordnet mich in temporäre Workshops zu             |         |                   |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
