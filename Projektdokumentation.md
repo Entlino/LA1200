@@ -66,11 +66,11 @@ Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 | 6.A  |       | Christian/Mirhan | Herausfinden wie man die Prioritäten vergleichen kann mit Mirhan besprechen und im erklären| 45min/ 10min|
 | 7.A  |       | Christian          | Feedbacackfeld erstellen und eine Art Visitenkarte der Leitung der App| 45min              |
 | 8.A  |       | Brandon          | Der Benutzer kann zu allen Workshops Informationen abfragen können.| 45min              |
-| 9.A  |       | Brandon          | Der              | 45min              |
+| 9.A  |       | Brandon          | Informationen können als Dokument gedownloadede werden            | 45min              |
 | 10.A  |       | Christian          |  Temporäre Einteilung in die Workshops| 45min              |
 | 11.A  |       | Brandon          | Auflistung wer und bei welchem Workshop fest eingetragen wurde.             | 45min              |
-| 12.A  |       |           |              | 45min              |
-| 13.A  |       |           |              | 45min              |
+| 12.A  |       | Lukas          | Liste der Belibtesten Workshops und deren Anzahl an Mitglieder| 45min              |
+| 13.A  | Falls Zeit übrig      | Christian          | Grafische überarbeitung| 45min              |
 | 14.A  |       |           |              | 45min             |
 | 15.A  |       |           |              | 45min              |
 | 16.A  |       |           |              | 45min              |
