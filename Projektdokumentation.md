@@ -34,17 +34,16 @@ Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Computer fragt nach Login-Daten             | B.Peter.inf@stud.bbbaden.ch        |                   |
-| 1.2  | Computer fragt nach Login-Daten             | Passwort        |                   |
-| 2.1  | Computer zeigt Workshops an             | -        |                   |
+| 1.1  | Computer fragt nach Login-Daten             | B.Peter.inf@stud.bbbaden.ch        | B.Peter.inf@stud.bbbaden.ch                  |
+| 1.2  | Computer fragt nach Login-Daten             | Passwort        | ******                  |
+| 2.1  | Computer zeigt Workshops an             | Workshops        | zeigt Workshops                  |
 | 2.2  | Computer zeigt Workshops an             | Tech-Workshop        | Sie haben "Tech-Workshop" ausgewählt.                  |
-| 3.1  | Computer erkennt Prioritäten             | 0 / 1 / 2        |                   |
-| 4.1  | Computer zeigt top 5 beliebte Workshops an             | -        |                   |
-| 5.1  | Computer fragt nach Feedback nach             | freiwillig        | Danke, für ihr Feedback                  |
-| 6.1  | Computer zeigt mir meine Zuteilung an             | -        |                   |
-| 7.1  | Computer zeigt Zusatzdetails zu den Workshops an             | -        |                   |
-| 8.1  | Computer ordnet mich in temporäre Workshops zu             |         |                   |
-| ...  |              |         |                   |
+| 3.1  | Computer erkennt Prioritäten             | 0 / 1 / 2        | Sie haben Fitness auf 0; ... auf 1; ... auf 2; Priorität gesetzt                   |
+| 4.1  | Computer zeigt top 5 beliebte Workshops an             | Top5 beliebte Workshops        | zeigt beliebte Workshops                  |
+| 5.1  | Computer fragt nach Feedback nach             | guter Workshop        | Danke, für ihr Feedback                  |
+| 6.1  | Computer zeigt mir meine Zuteilung an             | meine Zuteilung        | zeigt zuteilung von ihnen                  |
+| 7.1  | Computer zeigt Zusatzdetails zu den Workshops an             | Zusatzinformationen von Fitness       | zeigt Zusatzinformationen von Fitness                 |
+| 8.1  | Computer ordnet mich in temporäre Workshops zu             | 0; Fitness        | temporär zu Fitness zugeteilt                  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
