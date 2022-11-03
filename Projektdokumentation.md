@@ -1,8 +1,6 @@
 # LA1200
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 
 | Datum | Version | Zusammenfassung                                              |
@@ -61,12 +59,12 @@ Blobfisch: Aeschlimann, Özden, Heiniger, Spaqi
 | 1.A  |       | Lukas     | Der Benutzer kann sich einen Account erstellen (Passwort, Benutzername etc.) | 45min         |
 | 2.A  |       | Lukas     | Der Benutzer kann sich einlogen mit seinem Account und sein Passwort und andere Daten ändern kann falls etwas falsch wäre.| 60min         |
 | 3.A  |       | Mirhan   | Herausfinden wie man Priritäten setzen kann und wie man Arrays am besten verwenden kann| 25min         |
-| 4.A  |       | Mirhan          | Der Benutzer kann seine Mail und seine Prioritäteten eintrag| 50min         |
+| 4.A  |       | Mirhan          | Der Benutzer kann seine Mail und seine Prioritäteten eintragen| 50min         |
 | 5.A  |       | Mirhan          | Die Einträge werden gespeichert             | 45min         |
 | 6.A  |       | Christian/Mirhan | Herausfinden wie man die Prioritäten vergleichen kann mit Mirhan besprechen und im erklären| 45min/ 10min|
-| 7.A  |       | Christian          | Feedbacackfeld erstellen und eine Art Visitenkarte der Leitung der App| 45min              |
-| 8.A  |       | Brandon          | Der Benutzer kann zu allen Workshops Informationen abfragen können.| 45min              |
-| 9.A  |       | Brandon          | Informationen können als Dokument gedownloadede werden            | 45min              |
+| 7.A  |       | Christian          | Feedbackfeld erstellen und eine Art Visitenkarte der Leitung der App| 45min              |
+| 8.A  |       | Brandon          | Der Benutzer kann zu allen Workshops Informationen abfragen.| 45min              |
+| 9.A  |       | Brandon          | Informationen können als Dokument gedownloaded werden            | 45min              |
 | 10.A  |       | Christian          |  Temporäre Einteilung in die Workshops| 45min              |
 | 11.A  |       | Brandon          | Auflistung wer und bei welchem Workshop fest eingetragen wurde.             | 45min              |
 | 12.A  |       | Lukas          | Liste der Belibtesten Workshops und deren Anzahl an Mitglieder| 45min              |
