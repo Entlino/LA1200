@@ -92,7 +92,8 @@ Total:
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-In unserem Programm haben wir als Gruppe entschieden
+In unserem Programm haben wir als Gruppe entschieden, dass der Benutzer einen Account erstellen soll. Falls die Eingabedaten falsch sind kann der Benutzer die Daten ändern. Wenn der Benutzer seine Workshop Wünsche eingibt, wählt der Computer die Prioritäten und gibt den wahrscheinlichen Workshop aus, da der Workshop sich noch ändern kann. 
+Nach der Eingabe der Workshopwünsche wird angezeigt wieviele Fest bei welchen Workshops eingeteil ist. Am Schluss wird angezeigt welche die Beliebtesten Workshosp sind
 
 ## 4 Realisieren
 
