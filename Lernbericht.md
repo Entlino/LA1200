@@ -15,6 +15,8 @@ Wir haben gelernt eine Liste zu verwenden, um Werte abzuspeichern und diese weit
 
 Wir haben Listen in unserem Programm eingebaut, um einen grossen Texthaufen abzuspeichern. Wir haben also mehrere Listen verwendet z.B. haben wir die einzelnen Prioritäten beziehungsweise die Workshops in eigene Listen aufgeteilt. Zudem konnten wir auch mit Listen die einzelnen Werte aufsplitten, dadurch wurde es uns einfacher die Prioritäten mit Hilfe des random Zahlengenerator auszulosen. Die Listen sind also eine sehr gute Methode, um mehrere Textschnipsel aus einer Datei heraus zu filtern.
 
+![hippo](https://user-images.githubusercontent.com/111046193/202408924-aa809f33-d7c6-4f61-8b96-e678e9561fc2.gif)
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
