@@ -1,9 +1,9 @@
 # Lern-Bericht
-Blobfisch; Brandon, Christian, Lukas und Mirhan
+Blobifish, Mirhan Christian, Brandon, Lukas
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt haben wir eine Datei mit Personen die Workshops besuchen wollen einlesen lassen und im Programm werden die Workshops aufgeteilt. Schliesslich wird eine Datei ausgeschrieben wo steht, was die Personen für Workshops zugeteilt bekommen haben. 
 
 ## Was habe ich gelernt?
 
