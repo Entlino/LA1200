@@ -99,7 +99,7 @@
 
                 else
                 {
-                    Console.WriteLine("Yay, wir haben einen Kurs");
+                    Console.WriteLine("Wir haben einen Kurs");
                     
                 }
 
@@ -115,7 +115,7 @@
 
                 else
                 {
-                    Console.WriteLine("Yay, wir haben einen Kurs");
+                    Console.WriteLine("Wir haben einen Kurs");
                     
                 }
 
