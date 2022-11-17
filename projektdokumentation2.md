@@ -70,6 +70,8 @@ Total:
 
 ## 3 Entscheiden
 
+Wir haben uns nach den Testprotokollen entschieden, uns neu dem Auftrag zu orientieren und von neu den Code zu schreiben.
+Wir haben die Aufgaben neu aufgeteillt. Christian hatte die Aufgabe zugeordnet bekommen, die Datei einzulesen, Lukas die Aufgabe die Datei auszugeben, Brandon musste die Grenze zu setzen wieviele einen Kurs besuchen können. Mirhan seine Aufgabe war es die Workshops fair zuzuordnen.
 
 
 ## 4 Realisieren
@@ -90,16 +92,11 @@ Total:
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
+
 
 ## 6 Auswerten
 
