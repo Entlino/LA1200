@@ -109,3 +109,4 @@ Fazit: Wir haben kurz vor Abgabe erfahren das wir die Aufgabe falsch verstanden 
 
 
 ## 6 Auswerten
+https://github.com/Entlino/LA1200/blob/main/Lernbericht.md
