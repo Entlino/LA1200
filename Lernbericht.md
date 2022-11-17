@@ -17,7 +17,7 @@ Wir haben Listen in unserem Programm eingebaut, um einen grossen Texthaufen abzu
 
 ![hippo](https://user-images.githubusercontent.com/111046193/202408924-aa809f33-d7c6-4f61-8b96-e678e9561fc2.gif)
 
-Das Gif zeigt wie die textdatei eingelesen wird und wie der Code die Datensätze in der Datei in eine Liste umwandeln sollte.
+
 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
@@ -28,6 +28,7 @@ Das Gif zeigt wie die textdatei eingelesen wird und wie der Code die Datensätze
 Wir haben ein Textmedium gewählt, damit wir aufzeigen können, wie wir Listen in unserem Projekt verwendet haben.
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Gif zeigt wie die textdatei eingelesen wird und wie der Code die Datensätze in der Datei in eine Liste umwandeln sollte.
 
 # Reflexion zum Arbeitsprozess
 
