@@ -8,7 +8,6 @@ In unserem Projekt haben wir eine Datei mit Personen die Workshops besuchen woll
 ## Was habe ich gelernt?
 
 Wir haben gelernt eine Liste zu verwenden, um Werte abzuspeichern und diese weiter zu verwenden.
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
 
