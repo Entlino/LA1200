@@ -4,8 +4,8 @@ Blobfisch - Brandon Spaqi, Mirhan Özden, Lukas Heiniger, Christian Aeschlimann
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 3.11.2022| 0.0.1| Neu entscheid des Projektes                                  |
-| 10.11.2022| 0.0.2    | Anfang des neuen PRojekt                                |
+| 03.11.2022| 0.0.1| Neu entscheid des Projektes                                  |
+| 10.11.2022| 0.0.2    | Anfang des neuen Projekt                                |
 | 10.11.2022 | 0.0.3| Projekt ist teilweise Fertig hat aber noch fehler.         |                                                       |
 
 ## 1 Informieren
