@@ -3,7 +3,7 @@ Blobifish, Mirhan Christian, Brandon, Lukas
 
 ## Einleitung
 
-In unserem Projekt haben wir eine Datei mit Personen die Workshops besuchen wollen einlesen lassen und im Programm werden die Workshops aufgeteilt. Schliesslich wird eine Datei ausgeschrieben wo steht, was die Personen für Workshops zugeteilt bekommen haben. 
+In unserem Projekt haben wir eine Datei mit Personen die Workshops besuchen wollen einlesen lassen und in unserem Programm wurden die Workshops aufgeteilt. Die Workshops werden nur durchgeführt wenn es genügend und nicht zuviele Personen hat. Schliesslich wird eine Datei ausgeschrieben wo steht, was die Personen für Workshops zugeteilt bekommen haben. 
 
 ## Was habe ich gelernt?
 
