@@ -27,7 +27,6 @@ Wir haben Listen in unserem Programm eingebaut, um einen grossen Texthaufen abzu
 
 Wir haben ein Textmedium gewählt, damit wir aufzeigen können, wie wir Listen in unserem Projekt verwendet haben.
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 Das Gif zeigt wie die textdatei eingelesen wird und wie der Code die Datensätze in der Datei in eine Liste umwandeln sollte.
 
 # Reflexion zum Arbeitsprozess
