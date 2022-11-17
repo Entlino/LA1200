@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Blobfisch; Brandon, Christian, Lukas und Mirhan
 
 ## Einleitung
 
