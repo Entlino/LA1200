@@ -46,7 +46,7 @@
 
 
                 if (random == 1)
-                    Allocation = ThirdPriority[i];
+                    Allocation = FirstPriority[i];
                 if (random == 2)
                     Allocation = SecondPriority[i];
                 if (random == 3)
