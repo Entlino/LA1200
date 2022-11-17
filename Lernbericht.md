@@ -7,6 +7,7 @@ In unserem Projekt haben wir eine Datei mit Personen die Workshops besuchen woll
 
 ## Was habe ich gelernt?
 
+Wir haben gelernt eine Liste zu verwenden, um Werte abzuspeichern und diese weiter zu verwenden.
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
@@ -27,8 +28,10 @@ Wir haben ein Textmedium gewählt, damit wir aufzeigen können, wie wir Listen i
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
-👎 und etwas, was nicht gut lief.
+Uns ist das Realisieren gut gelungen, da wir uns gut abgesprochen haben und uns gegenseitig motiviert haben.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Die Planung ist uns nicht gut gelungen, da wir den Auftrag nicht richtig verstanden haben und es auch Verständnisprobleme mit GitHub gab.
+
+In den nächsten Projekten möchten wir alle die Aufträge besser durchlesen und uns mehr Zeit nehmen für eine gute Projekdokumentation.
+
