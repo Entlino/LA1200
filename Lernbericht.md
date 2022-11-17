@@ -11,7 +11,7 @@ Wir haben gelernt eine Liste zu verwenden, um Werte abzuspeichern und diese weit
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+
 
 Wir haben Listen in unserem Programm eingebaut, um einen grossen Texthaufen abzuspeichern. Wir haben also mehrere Listen verwendet z.B. haben wir die einzelnen Prioritäten beziehungsweise die Workshops in eigene Listen aufgeteilt. Zudem konnten wir auch mit Listen die einzelnen Werte aufsplitten, dadurch wurde es uns einfacher die Prioritäten mit Hilfe des random Zahlengenerator auszulosen. Die Listen sind also eine sehr gute Methode, um mehrere Textschnipsel aus einer Datei heraus zu filtern.
 
