@@ -20,10 +20,6 @@ Wir haben Listen in unserem Programm eingebaut, um einen grossen Texthaufen abzu
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/111046193/202414819-6c3100fd-1748-4288-ba96-749f49b3b35d.png)
 
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
-
 ## Verifikation
 
 Wir haben ein Textmedium gewählt, damit wir aufzeigen können, wie wir Listen in unserem Projekt verwendet haben.
