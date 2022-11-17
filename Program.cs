@@ -17,9 +17,9 @@
             Console.WriteLine(text);
 
             List<string> email = new List<string>();
-            List<string> pri1 = new List<string>();
-            List<string> pri2 = new List<string>();
-            List<string> pri3 = new List<string>();
+            List<string> FirstPriority = new List<string>();
+            List<string> SecondPriority = new List<string>();
+            List<string> ThirdPriority = new List<string>();
             int random;
             var assignment;
 
@@ -27,14 +27,14 @@
             {
                 string[] parts = line.Split(';');
                 email.Add(parts[0]);
-                pri1.Add(parts[1]);
-                pri2.Add(parts[2]);
-                pri3.Add(parts[3]);
+                FirstPriority.Add(parts[1]);
+                SecondPriority.Add(parts[2]);
+                ThirdPriority.Add(parts[3]);
 
             }
 
        
-            List<string> Zuteilung;
+            List<string> Allocation;
             for (int i = 0; i < email.Count; i++)
             {
 
@@ -46,51 +46,51 @@
 
 
                 if (random == 1)
-                    Zuteilung = pri1[i];
+                    Allocation = ThirdPriority[i];
                 if (random == 2)
-                    Zuteilung = pri2[i];
+                    Allocation = SecondPriority[i];
                 if (random == 3)
-                    Zuteilung = pri3[i];
+                    Allocation = ThirdPriority[i];
 
 
 
             }
-            foreach (string entscheid in assignment)
+            foreach (string Decision in assignment)
             {
 
 
 
-                int TanzenCounter = 0;
-                int FussballCounter = 0;
-                int SingenCounter = 0;
-                int NähenCounter = 0;
+                int DanceCounter = 0;
+                int SoccerCounter = 0;
+                int SingCounter = 0;
+                int SewCounter = 0;
 
 
 
-                if (entscheid == "Tanzen")
+                if (Decision == "Dance")
                 {
-                    TanzenCounter++;
+                    DanceCounter++;
                 }
-                if (entscheid == "Fussball")
+                if (Decision == "Soccer")
                 {
-                    FussballCounter++;
-                }
-
-
-
-                if (entscheid == "Nähen")
-                {
-                    NähenCounter++;
+                    SoccerCounter++;
                 }
 
 
 
-                if (entscheid == "Singen")
+                if (Decision == "Sew")
                 {
-                    SingenCounter++;
+                    SewCounter++;
                 }
 
-                if (TanzenCounter < 4 || TanzenCounter > 20)
+
+
+                if (Decision == "Sing")
+                {
+                    SingCounter++;
+                }
+
+                if (DanceCounter < 4 || DanceCounter > 20)
                 {
                     Console.WriteLine("Tut mir Leid, keine Tanzkurse mehr");
                 }
@@ -106,7 +106,7 @@
 
 
 
-                if (NähenCounter < 4 || NähenCounter > 20)
+                if (SewCounter < 4 || SewCounter > 20)
                 {
                     Console.WriteLine("Tut mir Leid, keine Nähkurse mehr");
                 }
@@ -122,7 +122,7 @@
 
 
 
-                if (FussballCounter < 4 || FussballCounter > 20)
+                if (SoccerCounter < 4 || SoccerCounter > 20)
                 {
                     Console.WriteLine("Tut mir Leid, keine Fusballkurse mehr");
                 }
@@ -131,14 +131,14 @@
 
                 else
                 {
-                    Console.WriteLine("Yay, wir haben einen Kurs");
+                    Console.WriteLine("Wir haben einen Kurs");
                    
                 }
 
 
 
 
-                if (SingenCounter < 4 || SingenCounter > 20)
+                if (SingCounter < 4 || SingCounter > 20)
                 {
                     Console.WriteLine("Tut mir Leid, keine Singkurse mehr");
                 }
@@ -147,12 +147,12 @@
 
                 else
                 {
-                    Console.WriteLine("Yay, wir haben einen Kurs");
+                    Console.WriteLine("Wir haben einen Kurs");
                     
                 }
 
                 string outPath = @"C:\Users\chris\OneDrive\Desktop\Schule\BBB\Lernatelier\Endergebnis.txt";
-                string outText = email + ": " entscheid + "\r\n"
+                string outText = email + ": " Decision + "\r\n"
                 File.WriteAllText(outPath, outText);
 
                 string fileoutput = "";
