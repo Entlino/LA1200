@@ -1,10 +1,10 @@
 # Projekt-Dokumentation
 
-Blobfisch
+Blobfisch - Brandon Spaqi, Mirhan Özden, Lukas Heiniger, Christian Aeschlimann
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|17.11.2022 | 0.9.0   | Unser Programm würde laufen, jedoch hat es ein, zwei Fehler, weswegen es nicht läuft. |
+|       | 0.0.1   |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -12,7 +12,7 @@ Blobfisch
 
 ### 1.1 Ihr Projekt
 
-Workshop anmelde Programm
+Workshopaufteilungsprogramm
 
 ### 1.2 User Stories
 
@@ -45,6 +45,7 @@ Workshop anmelde Programm
 
 ### 1.4 Diagramme
 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/111046353/202382363-5f6b3e34-f58b-4711-8ed9-d36a1109e01d.png)
 
 
 ## 2 Planen
@@ -65,13 +66,8 @@ Workshop anmelde Programm
 
 Total: 
 
-
-
-
 ## 3 Entscheiden
 
-Wir haben uns nach den Testprotokollen entschieden, uns neu dem Auftrag zu orientieren und von neu den Code zu schreiben.
-Wir haben die Aufgaben neu aufgeteillt. Christian hatte die Aufgabe zugeordnet bekommen, die Datei einzulesen, Lukas die Aufgabe die Datei auszugeben, Brandon musste die Grenze setzen wieviele einen Kurs besuchen können. Mirhan seine Aufgabe war es die Workshops fair zuzuordnen.
 
 
 ## 4 Realisieren
@@ -89,15 +85,27 @@ Wir haben die Aufgaben neu aufgeteillt. Christian hatte die Aufgabe zugeordnet b
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 2.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 3.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 4.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 5.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 6.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 7.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 8.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 9.1  |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 10.1 |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
+| 11.1 |17.11.2022|Funktioniert Nicht|Christian Aeschlimann|
 
 
+Fazit: Wir haben kurz vor Abgabe erfahren das wir die Aufgabe falsch verstanden haben, deshalb haben wir in der letzten R-Sitzung noch Vollgas gegeben und alles neu gemacht, für dass das wir nur 4h Zeit hatten, sind wir sehr Weit gekommen, Was man das nächste mal definitiv besser machen kann ist z. B. von anfang an die Aufgabe mehrfach durchliest um die Aufgabe von anfang an richtig zu Verstehen und um direkt mit Vollgas alles richtig machen können.
 
+### 5.2 Exploratives Testen
 
-
+| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
+| ---- | ------------ | ------- | ----------------- | -------------------- |
+| I    |              |         |                   |                      |
+| ...  |              |         |                   |                      |
 
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
