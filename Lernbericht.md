@@ -13,12 +13,15 @@ In unserem Projekt haben wir eine Datei mit Personen die Workshops besuchen woll
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
+Wir haben Listen in unserem Programm eingebaut, um einen grossen Texthaufen abzuspeichern. Wir haben also mehrere Listen verwendet z.B. haben wir die einzelnen Prioritäten beziehungsweise die Workshops in eigene Listen aufgeteilt. Zudem konnten wir auch mit Listen die einzelnen Werte aufsplitten, dadurch wurde es uns einfacher die Prioritäten mit Hilfe des random Zahlengenerator auszulosen. Die Listen sind also eine sehr gute Methode, um mehrere Textschnipsel aus einer Datei heraus zu filtern.
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
+
+Wir haben ein Textmedium gewählt, damit wir aufzeigen können, wie wir Listen in unserem Projekt verwendet haben.
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
