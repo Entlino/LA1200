@@ -4,7 +4,7 @@ Blobfisch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |                                                              |
+|17.11.2022 | 0.9.0   | Unser Programm würde laufen, jedoch hat es ein, zwei Fehler, weswegen es nicht läuft. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
