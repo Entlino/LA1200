@@ -71,7 +71,7 @@ Total:
 ## 3 Entscheiden
 
 Wir haben uns nach den Testprotokollen entschieden, uns neu dem Auftrag zu orientieren und von neu den Code zu schreiben.
-Wir haben die Aufgaben neu aufgeteillt. Christian hatte die Aufgabe zugeordnet bekommen, die Datei einzulesen, Lukas die Aufgabe die Datei auszugeben, Brandon musste die Grenze zu setzen wieviele einen Kurs besuchen können. Mirhan seine Aufgabe war es die Workshops fair zuzuordnen.
+Wir haben die Aufgaben neu aufgeteillt. Christian hatte die Aufgabe zugeordnet bekommen, die Datei einzulesen, Lukas die Aufgabe die Datei auszugeben, Brandon musste die Grenze setzen wieviele einen Kurs besuchen können. Mirhan seine Aufgabe war es die Workshops fair zuzuordnen.
 
 
 ## 4 Realisieren
